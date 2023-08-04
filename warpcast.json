@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Neynar",
+        "parent_url": "chain://eip155:1/erc721:0xd4498134211baad5846ce70ce04e7c4da78931cc"
+    },
+    {
+        "name": "Electronic",
+        "parent_url": "chain://eip155:1/erc721:0x05acde54e82e7e38ec12c5b5b4b1fd1c8d32658d"
+    },
+    {
+        "name": "Art",
+        "parent_url": "chain://eip155:1/erc721:0x1538c5ddbb073638b7cd1ae41ec2d9f9a4c24a7e"
+    },
+    {
+        "name": "FarCon",
+        "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746"
+    },
+    {
+        "name": "EVM",
+        "parent_url": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae"
+    },
+    {
+        "name": "FC EthCC",
+        "parent_url": "chain://eip155:1/erc721:0x39d89b649ffa044383333d297e325d42d31329b2"
+    },
+    {
+        "name": "Launchcaster",
+        "parent_url": "chain://eip155:1/erc721:0x5f4336f57cf41821522f1777321462b108de55c26"
+    },
+    {
+        "name": "LA",
+        "parent_url": "chain://eip155:1/erc721:0x750262ee8b4261e061026fc24bb640a4aa88154a"
+    },
+    {
+        "name": "Soccer",
+        "parent_url": "chain://eip155:1/erc721:0x7abfe142031532e1ad0e46f971cc0ef7cf4b98b0"
+    },
+    {
+        "name": "/dev",
+        "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0"
+    },
+    {
+        "name": "Purpler",
+        "parent_url": "chain://eip155:1/erc721:0x8edceb20795ac2b93ab8635af77e96cae123d045"
+    },
+    {
+        "name": "Purpler",
+        "parent_url": "chain://eip155:1/erc721:0xa45662638e9f3bbb7a6fecb4b17853b7ba0f3a60"
+    }
+]
