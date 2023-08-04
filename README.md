@@ -7,6 +7,8 @@ This repo serves as a public good for mapping well-known channels across Farcast
 
 
 ## How to fetch this data over an API
+
+### Example to fetch by client
 ```
 curl https://raw.githubusercontent.com/neynarxyz/farcaster-channels/main/warpcast.json
 ```
