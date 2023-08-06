@@ -270,5 +270,9 @@
     {
         "name": "FarCon",
         "parent_url": "chain://eip155:1/erc721:0x2A9EA02E4c2dcd56Ba20628Fe1bd46bAe2C62746"
+    },
+    {
+        "name": "Defifa",
+        "parent_url": "https://defifa.net"
     }
 ]
