@@ -12,3 +12,10 @@ This repo serves as a public good for mapping well-known channels across Farcast
 ```
 curl https://raw.githubusercontent.com/neynarxyz/farcaster-channels/main/warpcast.json
 ```
+
+### Contributing guidelines
+Open a PR to add or update
+- clients
+- channels
+- channel metadata
+  
