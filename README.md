@@ -15,7 +15,7 @@ curl https://raw.githubusercontent.com/neynarxyz/farcaster-channels/main/warpcas
 
 ### Contributing guidelines
 Open a PR to add or update
-- clients
-- channels
-- channel metadata
+- clients: add new clients (e.g. Warpcast is a client and channels within Warpcast are stored in warpcast.json)
+- channels: add new channels to existing client lists (e.g. add to the warpcast.json list if new channels get added on Warpcast)
+- channel metadata: edit channel metadata (e.g. if channel name changes for a parent_url)
   
