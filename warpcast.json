@@ -424,5 +424,41 @@
         "parent_url": "https://www.rust-lang.org",
         "image": "https://warpcast.com/~/channel-images/rust.png",
         "channel_id": "rust"
+    },
+    {
+        "name": "Apple",
+        "parent_url": "https://www.apple.com",
+        "image": "https://warpcast.com/~/channel-images/apple.png",
+        "channel_id": "apple"
+    },
+    {
+        "name": "Bright Moments",
+        "parent_url": "https://www.brightmoments.io",
+        "image": "https://warpcast.com/~/channel-images/bright-moments.jpg",
+        "channel_id": "bright-moments"
+    },
+    {
+        "name": "Devconnect",
+        "parent_url": "https://devconnect.org",
+        "image": "https://warpcast.com/~/channel-images/devconnect.jpg",
+        "channel_id": "devconnect"
+    },
+    {
+        "name": "farcastHER",
+        "parent_url": "chain://eip155:8453/erc721:0x1e5115dc60cdab3c1263a945201cb509ea7a8340",
+        "image": "https://ipfs.decentralized-content.com/ipfs/bafkreifastwejsqeht6iwljuv2d5yqaabvkayktzfidxnb3nq4w653slai",
+        "channel_id": "farcasther"
+    },
+    {
+        "name": "Nature",
+        "parent_url": "chain://eip155:7777777/erc721:0xf6a7d848603aff875e4f35025e5c568679ccc17c",
+        "image": "https://ipfs.decentralized-content.com/ipfs/bafybeia4rvvtf5wulljp6ogdbbsjtflvuw5gcfwbugikwtfom2rq5c65a4",
+        "channel_id": "nature"
+    },
+    {
+        "name": "Rugby",
+        "parent_url": "https://www.rugbyworldcup.com",
+        "image": "https://warpcast.com/~/channel-images/rugby.png",
+        "channel_id": "rugby"
     }
 ]
