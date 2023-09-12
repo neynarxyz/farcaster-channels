@@ -460,5 +460,11 @@
         "parent_url": "https://www.rugbyworldcup.com",
         "image": "https://warpcast.com/~/channel-images/rugby.png",
         "channel_id": "rugby"
-    }
+    },
+    {
+        "name": "Network States",
+        "parent_url": "https://thenetworkstate.com",
+        "image": "https://warpcast.com/~/channel-images/network-states.png",
+        "channel_id": "network-states"
+    },
 ]
