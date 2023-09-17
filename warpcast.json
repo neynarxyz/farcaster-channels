@@ -89,11 +89,11 @@
         "image": "https://warpcast.com/~/channel-images/solana.png",
         "channel_id": "solana"
     },
-    { 
-        "name": "Tezos", 
-        "parent_url": "https://tezos.com", 
+    {
+        "name": "Tezos",
+        "parent_url": "https://tezos.com",
         "image": "https://warpcast.com/~/channel-images/tezos.png",
-        "channel_id": "tezos" 
+        "channel_id": "tezos"
     },
     {
         "name": "Quilibrium",
@@ -149,17 +149,17 @@
         "image": "https://i.seadn.io/gcs/files/d1a1532c0b6e27f674dcaaba1e7a0d58.png?auto=format&dpr=1&w=512",
         "channel_id": "soccer"
     },
-    { 
-        "name": "NFL", 
-        "parent_url": "https://www.nfl.com", 
+    {
+        "name": "NFL",
+        "parent_url": "https://www.nfl.com",
         "image": "https://warpcast.com/~/channel-images/nfl.png",
-        "channel_id": "nfl" 
+        "channel_id": "nfl"
     },
-    { 
-        "name": "NBA", 
-        "parent_url": "https://www.nba.com", 
+    {
+        "name": "NBA",
+        "parent_url": "https://www.nba.com",
         "image": "https://warpcast.com/~/channel-images/nba.png",
-        "channel_id": "nba" 
+        "channel_id": "nba"
     },
     {
         "name": "F1",
@@ -424,5 +424,71 @@
         "parent_url": "https://www.rust-lang.org",
         "image": "https://warpcast.com/~/channel-images/rust.png",
         "channel_id": "rust"
+    },
+    {
+        "parent_url": "chain://eip155:7777777/erc721:0xf6a7d848603aff875e4f35025e5c568679ccc17c",
+        "channel_id": "nature",
+        "image": "https://ipfs.decentralized-content.com/ipfs/bafybeia4rvvtf5wulljp6ogdbbsjtflvuw5gcfwbugikwtfom2rq5c65a4",
+        "channel_description": "Nature"
+    },
+    {
+        "parent_url": "chain://eip155:8453/erc721:0x5fcd7a54fdf08c8dbcb969bc1f021ae87affafa8",
+        "channel_id": "jobs",
+        "image": "https://ipfs.decentralized-content.com/ipfs/bafkreie2uut3t5enmn6vtqainrmzwwy47evihl4dmxjqofwwjvqk6snbsu",
+        "channel_description": "Jobs"
+    },
+    {
+        "parent_url": "https://www.apple.com",
+        "channel_id": "apple",
+        "image": "https://warpcast.com/~/channel-images/apple.png",
+        "channel_description": "Apple"
+    },
+    {
+        "parent_url": "https://thenetworkstate.com",
+        "channel_id": "network-states",
+        "image": "https://warpcast.com/~/channel-images/network-states.png",
+        "channel_description": "Network States"
+    },
+    {
+        "parent_url": "https://onchainsummer.xyz",
+        "channel_id": "onchain-summer",
+        "image": "https://warpcast.com/~/channel-images/onchain-summer.png",
+        "channel_description": "Onchain Summer"
+    },
+    {
+        "parent_url": "chain://eip155:7777777/erc721:0x3312a43f15a9a9a1c6b7ee055e4b71041c2613e6",
+        "channel_id": "rust-x-ethereum",
+        "image": "https://warpcast.com/~/channel-images/rex.png",
+        "channel_description": "RxE"
+    },
+    {
+        "parent_url": "chain://eip155:8453/erc721:0x1e5115dc60cdab3c1263a945201cb509ea7a8340",
+        "channel_id": "farcasther",
+        "image": "https://ipfs.decentralized-content.com/ipfs/bafkreifastwejsqeht6iwljuv2d5yqaabvkayktzfidxnb3nq4w653slai",
+        "channel_description": "farcastHER"
+    },
+    {
+        "parent_url": "https://devconnect.org",
+        "channel_id": "devconnect",
+        "image": "https://warpcast.com/~/channel-images/devconnect.jpg",
+        "channel_description": "Devconnect"
+    },
+    {
+        "parent_url": "https://www.cricketworldcup.com",
+        "channel_id": "cricket",
+        "image": "https://warpcast.com/~/channel-images/cricket.png",
+        "channel_description": "Cricket"
+    },
+    {
+        "parent_url": "https://www.rugbyworldcup.com",
+        "channel_id": "rugby",
+        "image": "https://warpcast.com/~/channel-images/rugby.png",
+        "channel_description": "Rugby"
+    },
+    {
+        "parent_url": "https://www.brightmoments.io",
+        "channel_id": "bright-moments",
+        "image": "https://warpcast.com/~/channel-images/bright-moments.jpg",
+        "channel_description": "Bright Moments"
     }
 ]
