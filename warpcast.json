@@ -856,5 +856,35 @@
         "parent_url": "https://farcaster.group/daily-fantasy",
         "image": "https://warpcast.com/~/channel-images/daily-fantasy.png",
         "channel_id": "daily-fantasy"
+    },
+    {
+        "name": "Vietnamese",
+        "parent_url": "https://farcaster.group/vietnamese",
+        "image": "https://warpcast.com/~/channel-images/vietnamese.png",
+        "channel_id": "vietnamese"
+    },
+    {
+        "name": "SuperRare",
+        "parent_url": "https://superrare.com",
+        "image": "https://warpcast.com/~/channel-images/superrare.jpg",
+        "channel_id": "superrare"
+    },
+    {
+        "name": "Foundation",
+        "parent_url": "https://foundation.app",
+        "image": "https://warpcast.com/~/channel-images/foundation.jpg",
+        "channel_id": "foundation"
+    },
+    {
+        "name": "Tokyo",
+        "parent_url": "https://farcaster.group/tokyo",
+        "image": "https://warpcast.com/~/channel-images/tokyo.png",
+        "channel_id": "tokyo"
+    },
+    {
+        "name": "Rarible",
+        "parent_url": "https://rarible.com",
+        "image": "https://warpcast.com/~/channel-images/rarible.jpg",
+        "channel_id": "rarible"
     }
 ]
