@@ -888,6 +888,12 @@
         "channel_id": "rarible"
     },
     {
+        "name": "CoCreated",
+        "parent_url": "https://app.cocreated.xyz",
+        "image": "https://app.cocreated.xyz/icon-512x512.png",
+        "channel_id": "cocreated"
+    },
+    {
         "name": "Bounties",
         "parent_url": "https://warpcast.com/~/channel/bounties",
         "image": "https://warpcast.com/~/channel-images/bounties.png",
