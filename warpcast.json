@@ -889,7 +889,7 @@
     },
     {
         "name": "CoCreated",
-        "parent_url": "https://zora.co/collect/zora:0x51c253e272be86ca55bab7ae69cedf394d8e760e/1",
+        "parent_url": "https://app.cocreated.xyz",
         "image": "https://app.cocreated.xyz/icon-512x512.png",
         "channel_id": "cocreated"
     }
