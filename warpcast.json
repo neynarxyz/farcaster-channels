@@ -886,5 +886,11 @@
         "parent_url": "https://rarible.com",
         "image": "https://warpcast.com/~/channel-images/rarible.jpg",
         "channel_id": "rarible"
+     },
+    {
+        "name": "Bounties",
+        "parent_url": "https://warpcast.com/~/channel/bounties",
+        "image": "https://warpcast.com/~/channel-images/bounties.png",
+        "channel_id": "bounties"
     }
 ]
