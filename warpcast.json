@@ -892,5 +892,59 @@
         "parent_url": "https://warpcast.com/~/channel/bounties",
         "image": "https://warpcast.com/~/channel-images/bounties.png",
         "channel_id": "bounties"
+    },
+    {
+        "name": "Based Management",
+        "parent_url": "https://www.based.management",
+        "image": "https://warpcast.com/~/channel-images/based-management.jpg",
+        "channel_id": "based-management"
+    },
+    {
+        "name": "Geopolitics",
+        "parent_url": "https://farcaster.group/geopolitics",
+        "image": "https://warpcast.com/~/channel-images/geopolitics.png",
+        "channel_id": "geopolitics"
+    },
+    {
+        "name": "Very Internet Person",
+        "parent_url": "https://veryinter.net/person",
+        "image": "https://warpcast.com/~/channel-images/vip.png",
+        "channel_id": "vip"
+    },
+    {
+        "name": "BanklessDAO",
+        "parent_url": "https://www.bankless.community",
+        "image": "https://warpcast.com/~/channel-images/banklessdao.jpg",
+        "channel_id": "banklessdao"
+    },
+    {
+        "name": "Infosec",
+        "parent_url": "https://farcaster.group/infosec",
+        "image": "https://warpcast.com/~/channel-images/infosec.png",
+        "channel_id": "infosec"
+    },
+    {
+        "name": "draw.tech",
+        "parent_url": "https://www.draw.tech",
+        "image": "https://warpcast.com/~/channel-images/drawtech.png",
+        "channel_id": "drawtech"
+    },
+    {
+        "name": "mintdotfun",
+        "parent_url": "https://mint.fun",
+        "image": "https://warpcast.com/~/channel-images/mintdotfun.jpg",
+        "channel_id": "mintdotfun"
+    },
+    {
+        "name": "Nouns Esports",
+        "parent_url": "https://nouns.gg",
+        "image": "https://warpcast.com/~/channel-images/nouns-esports.jpg",
+        "channel_id": "nouns-esports"
+    },
+    {
+        "name": "Ponder",
+        "parent_url": "chain://eip155:1/erc721:0xb58f8b1972c86aacd58f86ffae37ed31664c934d",
+        "image": "https://warpcast.com/~/channel-images/ponder.png",
+        "channel_id": "ponder"
     }
 ]
