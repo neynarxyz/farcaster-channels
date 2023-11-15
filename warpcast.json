@@ -39,7 +39,8 @@
         "name": "EVM",
         "parent_url": "chain://eip155:1/erc721:0x37fb80ef28008704288087831464058a4a3940ae",
         "image": "https://warpcast.com/~/channel-images/evm.png",
-        "channel_id": "evm"
+        "channel_id": "evm",
+        "lead_fid": 3621
     },
     {
         "name": "zk",
@@ -57,7 +58,8 @@
         "name": "Memes",
         "parent_url": "chain://eip155:1/erc721:0xfd8427165df67df6d7fd689ae67c8ebf56d9ca61",
         "image": "https://i.seadn.io/gcs/files/1f4acfc1e6831eb38e9453ce34ac79f8.png?auto=format&dpr=1&w=512",
-        "channel_id": "memes"
+        "channel_id": "memes",
+        "lead_fid": 576
     },
     {
         "name": "News",
@@ -93,19 +95,22 @@
         "name": "Quilibrium",
         "parent_url": "https://www.quilibrium.com",
         "image": "https://warpcast.com/~/channel-images/quilibrium.png",
-        "channel_id": "quilibrium"
+        "channel_id": "quilibrium",
+        "lead_fid": 1325
     },
     {
         "name": "AI",
         "parent_url": "chain://eip155:7777777/erc721:0x5747eef366fd36684e8893bf4fe628efc2ac2d10",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeidaofd6olol55alhr2npgfiocv6oxdbjcyvpssh6hgr5v6pqwhxrm",
-        "channel_id": "ai"
+        "channel_id": "ai",
+        "lead_fid": 1171
     },
     {
         "name": "Design",
         "parent_url": "chain://eip155:7777777/erc721:0x22be981fb87effbe6780b34a6fe1dfc14a00ec8e",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeiclumzieza3g5qljprmixrvh4reqvmle6o3cpp5murltndpjjl2hu",
-        "channel_id": "design"
+        "channel_id": "design",
+        "lead_fid": 4923
     },
     {
         "name": "Podcasts",
@@ -123,7 +128,8 @@
         "name": "Books",
         "parent_url": "chain://eip155:1/erc721:0xc18f6a34019f5ba0fc5bc8cb6fe52e898d6bbbee",
         "image": "https://i.seadn.io/gcs/files/1b3612720761923ac32e276a29a0a234.png?auto=format&dpr=1&w=512",
-        "channel_id": "books"
+        "channel_id": "books",
+        "lead_fid": 129
     },
     {
         "name": "Screens",
@@ -135,7 +141,8 @@
         "name": "Fitness",
         "parent_url": "chain://eip155:1/erc721:0xee442da02f2cdcbc0140162490a068c1da94b929",
         "image": "https://i.seadn.io/gcs/files/f89aa7f1b59bea83d838680cf567a0b1.png?auto=format&dpr=1&w=512",
-        "channel_id": "fitness"
+        "channel_id": "fitness",
+        "lead_fid": 10259
     },
     {
         "name": "Soccer",
@@ -165,7 +172,8 @@
         "name": "Music",
         "parent_url": "chain://eip155:7777777/erc721:0xe96c21b136a477a6a97332694f0caae9fbb05634",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeibdk7mvrhmud76ye6wm623sjgtiashik2imee7dkeliiq4wfissqq",
-        "channel_id": "music"
+        "channel_id": "music",
+        "lead_fid": 3115
     },
     {
         "name": "e/m",
@@ -183,7 +191,8 @@
         "name": "Photography",
         "parent_url": "chain://eip155:7777777/erc721:0x36ef4ed7a949ee87d5d2983f634ae87e304a9ea2",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeifezoeekksio4ojy6xcm6x4b3ety2dbkly5d5d4a7kwsc5skixgye",
-        "channel_id": "photography"
+        "channel_id": "photography",
+        "lead_fid": 9055
     },
     {
         "name": "Dogs",
@@ -195,7 +204,8 @@
         "name": "Cats",
         "parent_url": "chain://eip155:7777777/erc721:0x038adac316a87c29c3acc8641e1d8320bb0144c2",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeiex4iylhyfsihrqxs6hpvy6ik5i5m2pbihdhtcj2eov6uqdncoezy",
-        "channel_id": "cats"
+        "channel_id": "cats",
+        "lead_fid": 617
     },
     {
         "name": "Fashion",
@@ -213,7 +223,8 @@
         "name": "MangAnime",
         "parent_url": "chain://eip155:7777777/erc721:0x5a5ddb8a2d1ee3d8e9fd59785da88d573d1a84fe",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeifkqmk7up6ho5zl5cpzws2fug7af2ninrhlomhw6ntcfhmy6nksvi",
-        "channel_id": "manga-anime"
+        "channel_id": "manga-anime",
+        "lead_fid": 4440
     },
     {
         "name": "MJ",
@@ -231,7 +242,8 @@
         "name": "Backend",
         "parent_url": "chain://eip155:7777777/erc721:0x9d9f2365dc761dbcdc9af8120472c5e88c90833c",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafkreifpkt3bpfyzuyolm5msnm7kee4ftbb6ixymu2rfoddd24tgxkfvpu",
-        "channel_id": "backend"
+        "channel_id": "backend",
+        "lead_fid": 1401
     },
     {
         "name": "Frontend",
@@ -279,13 +291,15 @@
         "name": "Travel",
         "parent_url": "chain://eip155:7777777/erc721:0x917ef0a90d63030e6aa37d51d7e6ece440ace537",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeibqktr73eetw3qy4uwtnn4kcn6ziepg4g5koexpi2hjo6okbwb4em",
-        "channel_id": "travel"
+        "channel_id": "travel",
+        "lead_fid": 347
     },
     {
         "name": "LA",
         "parent_url": "chain://eip155:1/erc721:0x750262ee8b4261e061026fc24bb640a4aa88154a",
         "image": "https://i.seadn.io/gcs/files/fba3bf4bd772c2fa7e4210978dbd07e8.png?auto=format&dpr=1&w=512",
-        "channel_id": "los-angeles"
+        "channel_id": "los-angeles",
+        "lead_fid": 239
     },
     {
         "name": "NY",
@@ -303,7 +317,8 @@
         "name": "Purple",
         "parent_url": "chain://eip155:1/erc721:0xa45662638e9f3bbb7a6fecb4b17853b7ba0f3a60",
         "image": "https://i.seadn.io/gae/2R29pIWneHAMHH0e2Lcqsilv7vRBpnYngrKOZXBkhpyrlBVgcJzgPxPq_pWujLggzy-EW1Jt9QJIOQW7t95ufdgvwCAITd4fw0DvQJM?w=500&auto=format",
-        "channel_id": "purple"
+        "channel_id": "purple",
+        "lead_fid": 472
     },
     {
         "name": "Purpler",
@@ -339,7 +354,8 @@
         "name": "Launchcaster",
         "parent_url": "chain://eip155:1/erc721:0x5f4336f57cf41821522f1777321462b108de55c26",
         "image": "https://i.seadn.io/gcs/files/8ac77581565e219f568849cdce1c0919.png?auto=format&dpr=1&w=512",
-        "channel_id": "launchcaster"
+        "channel_id": "launchcaster",
+        "lead_fid": 373
     },
     {
         "name": "Surveycaster",
@@ -405,7 +421,8 @@
         "name": "Science",
         "parent_url": "chain://eip155:8453/erc721:0xd953664a9b9e30fa7b3ccd00a2f9c21c7b75c5f0",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafybeicwk3vf7oilmigaraj6sfnylb5upits56usthxrndnehb2gf4vty4",
-        "channel_id": "science"
+        "channel_id": "science",
+        "lead_fid": 16148
     },
     {
         "name": "Rust",
@@ -453,7 +470,8 @@
         "name": "farcastHER",
         "parent_url": "chain://eip155:8453/erc721:0x1e5115dc60cdab3c1263a945201cb509ea7a8340",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafkreifastwejsqeht6iwljuv2d5yqaabvkayktzfidxnb3nq4w653slai",
-        "channel_id": "farcasther"
+        "channel_id": "farcasther",
+        "lead_fid": 5818
     },
     {
         "name": "Devconnect",
@@ -489,13 +507,15 @@
         "name": "PoolTogether",
         "parent_url": "https://pooltogether.com",
         "image": "https://warpcast.com/~/channel-images/pool-together.png",
-        "channel_id": "pool-together"
+        "channel_id": "pool-together",
+        "lead_fid": 706
     },
     {
         "name": "Viem",
         "parent_url": "https://viem.sh",
         "image": "https://warpcast.com/~/channel-images/viem.png",
-        "channel_id": "viem"
+        "channel_id": "viem",
+        "lead_fid": 6143
     },
     {
         "name": "Data",
@@ -507,7 +527,8 @@
         "name": "EthStaker",
         "parent_url": "https://ethstaker.cc",
         "image": "https://warpcast.com/~/channel-images/eth-staker.png",
-        "channel_id": "eth-staker"
+        "channel_id": "eth-staker",
+        "lead_fid": 4996
     },
     {
         "name": "ENS",
@@ -525,7 +546,8 @@
         "name": "Basepaint",
         "parent_url": "https://basepaint.xyz",
         "image": "https://warpcast.com/~/channel-images/basepaint.png",
-        "channel_id": "basepaint"
+        "channel_id": "basepaint",
+        "lead_fid": 5062
     },
     {
         "name": "Onchain Gaming",
@@ -555,7 +577,8 @@
         "name": "Paragraph",
         "parent_url": "https://paragraph.xyz",
         "image": "https://warpcast.com/~/channel-images/paragraph.png",
-        "channel_id": "paragraph"
+        "channel_id": "paragraph",
+        "lead_fid": 378
     },
     {
         "name": "Milady",
@@ -567,7 +590,8 @@
         "name": "Gen Art",
         "parent_url": "chain://eip155:8453/erc721:0xe7a43b5942f15fddeb9733fdcc57c6232f1d5aa0",
         "image": "https://warpcast.com/~/channel-images/gen-art.png",
-        "channel_id": "gen-art"
+        "channel_id": "gen-art",
+        "lead_fid": 604
     },
     {
         "name": "Lil Nouns",
@@ -585,7 +609,8 @@
         "name": "Classical",
         "parent_url": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
         "image": "https://warpcast.com/~/channel-images/classical.png",
-        "channel_id": "classical"
+        "channel_id": "classical",
+        "lead_fid": 457
     },
     {
         "name": "Opepen",
@@ -609,7 +634,8 @@
         "name": "dev",
         "parent_url": "chain://eip155:1/erc721:0x7dd4e31f1530ac682c8ea4d8016e95773e08d8b0",
         "image": "https://ipfs.decentralized-content.com/ipfs/bafkreigbei45ni5zsliszzeivotgee5auj2ykkh6zrzjwvm4izviidusny",
-        "channel_id": "dev"
+        "channel_id": "dev",
+        "lead_fid": 191
     },
     {
         "name": "Creators",
@@ -885,19 +911,22 @@
         "name": "CoCreated",
         "parent_url": "https://app.cocreated.xyz",
         "image": "https://app.cocreated.xyz/icon-512x512.png",
-        "channel_id": "cocreated"
+        "channel_id": "cocreated",
+        "lead_fid": 5701
     },
     {
         "name": "Bounties",
         "parent_url": "https://www.bountycaster.xyz",
         "image": "https://warpcast.com/~/channel-images/bounties.png",
-        "channel_id": "bounties"
+        "channel_id": "bounties",
+        "lead_fid": 12
     },
     {
         "name": "Based Management",
         "parent_url": "https://www.based.management",
         "image": "https://warpcast.com/~/channel-images/based-management.jpg",
-        "channel_id": "based-management"
+        "channel_id": "based-management",
+        "lead_fid": 13121
     },
     {
         "name": "Geopolitics",
@@ -909,37 +938,43 @@
         "name": "Very Internet Person",
         "parent_url": "https://veryinter.net/person",
         "image": "https://warpcast.com/~/channel-images/vip.png",
-        "channel_id": "vip"
+        "channel_id": "vip",
+        "lead_fid": 7258
     },
     {
         "name": "BanklessDAO",
         "parent_url": "https://www.bankless.community",
         "image": "https://warpcast.com/~/channel-images/banklessdao.jpg",
-        "channel_id": "banklessdao"
+        "channel_id": "banklessdao",
+        "lead_fid": 10103
     },
     {
         "name": "Infosec",
         "parent_url": "https://farcaster.group/infosec",
         "image": "https://warpcast.com/~/channel-images/infosec.png",
-        "channel_id": "infosec"
+        "channel_id": "infosec",
+        "lead_fid": 7097
     },
     {
         "name": "draw.tech",
         "parent_url": "https://www.draw.tech",
         "image": "https://warpcast.com/~/channel-images/drawtech.png",
-        "channel_id": "drawtech"
+        "channel_id": "drawtech",
+        "lead_fid": 16831
     },
     {
         "name": "mintdotfun",
         "parent_url": "https://mint.fun",
         "image": "https://warpcast.com/~/channel-images/mintdotfun.jpg",
-        "channel_id": "mintdotfun"
+        "channel_id": "mintdotfun",
+        "lead_fid": 88
     },
     {
         "name": "Nouns Esports",
         "parent_url": "https://nouns.gg",
         "image": "https://warpcast.com/~/channel-images/nouns-esports.jpg",
-        "channel_id": "nouns-esports"
+        "channel_id": "nouns-esports",
+        "lead_fid": 11500
     },
     {
         "name": "Ponder",
