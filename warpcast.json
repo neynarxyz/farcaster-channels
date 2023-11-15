@@ -889,7 +889,7 @@
     },
     {
         "name": "Bounties",
-        "parent_url": "https://warpcast.com/~/channel/bounties",
+        "parent_url": "https://www.bountycaster.xyz",
         "image": "https://warpcast.com/~/channel-images/bounties.png",
         "channel_id": "bounties"
     },
