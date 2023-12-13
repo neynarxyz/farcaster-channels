@@ -358,12 +358,6 @@
         "lead_fid": 373
     },
     {
-        "name": "Surveycaster",
-        "parent_url": "chain://eip155:1/erc721:0xb58f8b1972c86aacd58f86ffae37ed31664c934d",
-        "image": "https://i.seadn.io/gcs/files/b6affa5205c571cf3421d49ad7d778ba.png?auto=format&dpr=1&w=512",
-        "channel_id": "surveycaster"
-    },
-    {
         "name": "Unlonely",
         "parent_url": "chain://eip155:1/erc721:0xc7e230ce8d67b2ad116208c69d616dd6bfc96a8d",
         "image": "https://i.seadn.io/gcs/files/40b68bc7d827a185cc044d1a4b872a20.png?auto=format&dpr=1&w=512",
