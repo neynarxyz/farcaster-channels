@@ -145,10 +145,10 @@
         "lead_fid": 10259
     },
     {
-        "name": "Soccer",
+        "name": "Football",
         "parent_url": "chain://eip155:1/erc721:0x7abfe142031532e1ad0e46f971cc0ef7cf4b98b0",
         "image": "https://i.seadn.io/gcs/files/d1a1532c0b6e27f674dcaaba1e7a0d58.png?auto=format&dpr=1&w=512",
-        "channel_id": "soccer"
+        "channel_id": "Football"
     },
     {
         "name": "NFL",
