@@ -1,3 +1,6 @@
+# Update 1.11.24
+Warpcast has launched permissionless channel creation and hundreds of new channels have been created since. New Neynar APIs [here](https://docs.neynar.com/reference/list-all-channels) offer real time channel data.
+
 # farcaster-channels
 A directory for well-known channels across different Farcaster clients
 
