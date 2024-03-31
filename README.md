@@ -1,6 +1,15 @@
 # Update 1.11.24
 Warpcast has launched permissionless channel creation and hundreds of new channels have been created since. New Neynar APIs [here](https://docs.neynar.com/reference/list-all-channels) offer real time channel data.
 
+# farcaster-power-user-badges
+
+A public repository for power user badges (updated each week Tuesdays at 12AM UTC
+per https://www.supercast.xyz/c/0x4ee78c2e0f383d51e0285a3f8cb7941adf2cf70f )
+
+update with a command like:
+
+`curl GET https://api.warpcast.com/v2/power-badge-users > yyyymmdd.json`
+
 # farcaster-channels
 A directory for well-known channels across different Farcaster clients
 
